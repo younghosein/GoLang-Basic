@@ -1,0 +1,2 @@
+# qolang
+go lang basic
